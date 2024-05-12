@@ -1,11 +1,23 @@
 
 
-Hi, my name is Dipti Gupta, a Data Science enthusiast with 1.5 years of professional experience as an Anayst. I have been working on learning Machine Learning and Artifical Intelligence as a part of my upskilling.
+Hi :wave:, my name is Dipti Gupta, a Data Science enthusiast with 1.5 years of professional experience as an Analyst. I have been working on learning Machine Learning and Artifical Intelligence as a part of my upskilling.
+
+
+Feel Free to check out my Repositories. There are Projects i have done some a part of bootcamp and some as a part of my personal upskilling.
+
+
+
+
 
 <picture>
  
  <img alt="YOUR-ALT-TEXT" src="https://businessofanimation.com/wp-content/uploads/2022/07/data-animation.gif">
 </picture>
+
+
+
+
+
 
 **Talking about Personal Stuff:**
 
@@ -19,10 +31,12 @@ Hi, my name is Dipti Gupta, a Data Science enthusiast with 1.5 years of professi
 <details>
 <summary>My Data Analytics Skills</summary>
 
-| Rank | Tools/Frameworks  |
-|-----:|------------------ |
-|     1| MS Excel          |
-|     2| SQL               |
-|     3| Python            |
-
+| Rank | Tools/Frameworks   |
+|-----:|------------------  |
+|     1| MS Excel           |
+|     2| SQL                |
+|     3| Python             |
+|     4| Data VIsualization |
 </details>
+
+git status
