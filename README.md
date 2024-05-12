@@ -1,4 +1,4 @@
-Hi There
+Dipti-Gupta1/Readme.md
 
 
-https://businessofanimation.com/wp-content/uploads/2022/07/data-animation.gif
+Hi, my name is Dipti Gupta, a Data Science enthusiast with 1.5 years of professional experience as an Anayst. I have been working on learning Machine Learning and Artifical Intelligence as a part of my upskilling.
