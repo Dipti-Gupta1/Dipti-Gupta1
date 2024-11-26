@@ -1,6 +1,6 @@
 
 
-Hi :wave:, my name is Dipti Gupta, a Data Science enthusiast with 1.5 years of professional experience as an Analyst. I have been working on learning Machine Learning and Artifical Intelligence as a part of my upskilling.
+Hi :wave:, my name is Dipti Gupta, a Data Science enthusiast with 2 years of professional experience as an Analyst. I have been working on learning Machine Learning and Artifical Intelligence as a part of my upskilling.
 
 
 Feel Free to check out my Repositories. There are Projects i have done some a part of bootcamp and some as a part of my personal upskilling.
